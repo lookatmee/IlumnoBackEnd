@@ -13,7 +13,7 @@ Este proyecto BackEnd fue desarrollado utilizando **Visual Studio 2022** y está
 ## Arquitectura y Principios de Diseño 
 - 🧩 **Arquitectura Hexagonal**
 - 🧩 **Principios SOLID**
-- 🏛️ **Arquitectura DDD (Domain-Driven Design)**
+- 🧩 **Arquitectura DDD (Domain-Driven Design)**
 - 🧩 **Patrón CQRS (Command Query Responsibility Segregation)**
 - 🧩️ **ORM: Entity Framework Core**
 
